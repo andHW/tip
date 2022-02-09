@@ -19,12 +19,12 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment point: 0/150.
+Current assignment point: 17/150.
 
 | Week # | Points |
 | ------ | ------ |
 | 1-3    | 0      |
-| 4      | -      |
+| 4      | 17     |
 | 5      | -      |
 | 6      | -      |
 | 7      | -      |
@@ -44,6 +44,7 @@ Current assignment point: 0/150.
 | Codechef    | February Long 2022 - I       | 4      | 4    |
 | Codeforce   | Round #770 (Div. 2)          | 4      | 2    |
 | GeekForGeek | interview-series-intuit-1134 | 4      | 1    |
+| Codechef    | Starters 25 Division 3       | 4      | 4    |
 
 ## Repo Hierarchy
 
