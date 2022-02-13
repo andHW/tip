@@ -37,14 +37,17 @@ Current assignment point: 17/150.
 
 ## Contest Summary
 
-| Judge       | Contest                      | Week # | # AC |
-| ----------- | ---------------------------- | ------ | ---- |
-| Leetcode    | Biweekly Contest 71          | 4      | 3    |
-| Leetcode    | Weekly Contest 279           | 4      | 3    |
-| Codechef    | February Long 2022 - I       | 4      | 4    |
-| Codeforce   | Round #770 (Div. 2)          | 4      | 2    |
-| GeekForGeek | interview-series-intuit-1134 | 4      | 1    |
-| Codechef    | Starters 25 Division 3       | 4      | 4    |
+| Judge      | Contest                        | Week # | # AC |
+| ---------- | ------------------------------ | ------ | ---- |
+| Leetcode   | Biweekly Contest 71            | 4      | 3    |
+| Leetcode   | Weekly Contest 279             | 4      | 3    |
+| Codechef   | February Long 2022 - I: Div 3  | 4      | 4    |
+| Codeforces | Round #770 (Div. 2)            | 4      | 2    |
+| GeekF4Geek | interview-series-intuit-1134   | 4      | 1    |
+| Codechef   | Starters 25 Division 3         | 4      | 4    |
+| Codechef   | February Long 2022 - II: Div 3 | 5      | 4    |
+| Codeforces | Global Round 19                | 5      | 1    |
+| Leetcode   | Weekly Contest 280             | 5      | 2    |
 
 ## Repo Hierarchy
 
