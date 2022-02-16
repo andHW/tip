@@ -25,7 +25,7 @@ Current assignment point: 17/150.
 | ------ | ------ |
 | 1-3    | 0      |
 | 4      | 17     |
-| 5      | -      |
+| 5      | 10     |
 | 6      | -      |
 | 7      | -      |
 | 8      | -      |
@@ -48,6 +48,8 @@ Current assignment point: 17/150.
 | Codechef   | February Long 2022 - II: Div 3 | 5      | 4    |
 | Codeforces | Global Round 19                | 5      | 1    |
 | Leetcode   | Weekly Contest 280             | 5      | 2    |
+| Codechef   | Starters 26 Div 3 (Rated)      | 5      | 3    |
+
 
 ## Repo Hierarchy
 
