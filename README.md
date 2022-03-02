@@ -27,7 +27,7 @@ Current assignment point: 17/150.
 | 4      | 17     |
 | 5      | 10     |
 | 6      | 0      |
-| 7      | 3+     |
+| 7      | 6      |
 | 8      | -      |
 | 9      | -      |
 | 10     | -      |
@@ -50,6 +50,7 @@ Current assignment point: 17/150.
 | Leetcode   | Weekly Contest 280             | 5      | 2    |
 | Codechef   | Starters 26 Div 3 (Rated)      | 5      | 3    |
 | Codechef   | February Lunchtime 2022: Div 3 | 7      | 3    |
+| Codechef   | Starters 28: Div. 3            | 7      | 3    |
 
 
 ## Repo Hierarchy
