@@ -27,7 +27,7 @@ Current assignment point: 17/150.
 | 4      | 17     |
 | 5      | 10     |
 | 6      | 0      |
-| 7      | 6      |
+| 7      | 8      |
 | 8      | -      |
 | 9      | -      |
 | 10     | -      |
@@ -51,6 +51,7 @@ Current assignment point: 17/150.
 | Codechef   | Starters 26 Div 3 (Rated)      | 5      | 3    |
 | Codechef   | February Lunchtime 2022: Div 3 | 7      | 3    |
 | Codechef   | Starters 28: Div. 3            | 7      | 3    |
+| Codeforces | Round #774 (Div. 2)            | 7      | 2    |
 
 
 ## Repo Hierarchy
