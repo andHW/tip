@@ -28,7 +28,7 @@ Current assignment point: 17/150.
 | 5      | 10     |
 | 6      | 0      |
 | 7      | 8      |
-| 8      | 3+     |
+| 8      | 6+     |
 | 9      | -      |
 | 10     | -      |
 | 11     | -      |
@@ -54,6 +54,7 @@ Current assignment point: 17/150.
 | Codeforces | Round #774 (Div. 2)            | 7      | 2    |
 | Leetcode   | Biweekly Contest 73            | 8      | 2    |
 | Codeforces | Round #776 (Div. 3)            | 8      | 1    |
+| Codechef   | Starters 29: Div. 3            | 8      | 3    |
 
 
 ## Repo Hierarchy
