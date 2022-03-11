@@ -28,7 +28,7 @@ Current assignment point: 17/150.
 | 5      | 10     |
 | 6      | 0      |
 | 7      | 8      |
-| 8      | 6+     |
+| 8      | 6      |
 | 9      | -      |
 | 10     | -      |
 | 11     | -      |
@@ -59,4 +59,5 @@ Current assignment point: 17/150.
 
 ## Repo Hierarchy
 
-TODO
+- /weekN contains images and code for week N
+- /incomplete-attempts contains drafts and submissions that are out of the contests.
