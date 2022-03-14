@@ -1,5 +1,7 @@
 # PROBLEM_LINK
 
+import sys
+
 debug = False
 # debug = True
 
@@ -7,7 +9,7 @@ debug = False
 def dprint(*args, **kwargs):
     if not debug:
         return
-    print("debug:\t"+" ".join(map(str, args)), **kwargs)
+    print("debug:\t"+" ".join(map(str, args)), **kwargs, file=sys.stderr)
 
 
 ttt = int(input())
