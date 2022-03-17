@@ -19,21 +19,21 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment point: 17/150.
+Current assignment point: 58/130.
 
-| Week # | Points |
-| ------ | ------ |
-| 1-3    | 0      |
-| 4      | 17     |
-| 5      | 10     |
-| 6      | 0      |
-| 7      | 8      |
-| 8      | 6      |
-| 9      | -      |
-| 10     | -      |
-| 11     | -      |
-| 12     | -      |
-| 13     | -      |
+| Week # | Points | Bonus |
+| ------ | ------ | ----- |
+| 1-3    | 0      |       |
+| 4      | 17     |       |
+| 5      | 10     |       |
+| 6      | 0      |       |
+| 7      | 8      |       |
+| 8      | 6      |       |
+| 9      | 7      | +10   |
+| 10     | -      |       |
+| 11     | -      |       |
+| 12     | -      |       |
+| 13     | -      |       |
 
 ## Contest Summary
 
@@ -55,9 +55,16 @@ Current assignment point: 17/150.
 | Leetcode   | Biweekly Contest 73            | 8      | 2    |
 | Codeforces | Round #776 (Div. 3)            | 8      | 1    |
 | Codechef   | Starters 29: Div. 3            | 8      | 3    |
+| Codechef   | March Long 2022 - I: Div 3     | 9      | 5    |
+| PrepBytes  | MARCH 2022 CODING MARATHON     | 9      | 2    |
 
 
 ## Repo Hierarchy
 
-- /weekN contains images and code for week N
+- /weekN contains images and code for week N.
 - /incomplete-attempts contains drafts and submissions that are out of the contests.
+- /weekN-p contains completed pratice problems, which are mostly on Leetcode.
+
+## Online Judges Reviews
+
+- PrepBytes is bad.

@@ -3,3 +3,4 @@
 # file/folder in the root-dir that starts with `in` will be ignored...
 /in*
 !in*/
+a.out
