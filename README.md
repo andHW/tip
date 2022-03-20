@@ -19,7 +19,7 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment point: 58/130.
+Current assignment point: 60/130.
 
 | Week # | Points | Bonus |
 | ------ | ------ | ----- |
@@ -29,11 +29,14 @@ Current assignment point: 58/130.
 | 6      | 0      |       |
 | 7      | 8      |       |
 | 8      | 6      |       |
-| 9      | 7      | +10   |
-| 10     | -      |       |
+| 9      | 9      | +10   |
+| 10     | 3+     |       |
 | 11     | -      |       |
 | 12     | -      |       |
 | 13     | -      |       |
+| 14     | -      |       |
+| 15     | -      |       |
+
 
 ## Contest Summary
 
@@ -56,7 +59,8 @@ Current assignment point: 58/130.
 | Codeforces | Round #776 (Div. 3)            | 8      | 1    |
 | Codechef   | Starters 29: Div. 3            | 8      | 3    |
 | Codechef   | March Long 2022 - I: Div 3     | 9      | 5    |
-| PrepBytes  | MARCH 2022 CODING MARATHON     | 9      | 2    |
+| PrepBytes  | MARCH 2022 CODING MARATHON     | 9      | 4    |
+| Leetcode   | Biweekly Contest 74            | 10     | 3    |
 
 
 ## Repo Hierarchy
@@ -67,4 +71,7 @@ Current assignment point: 58/130.
 
 ## Online Judges Reviews
 
-- PrepBytes is bad.
+- PrepBytes sucks
+  - it doesn't explain runtime error
+  - provide test cases that don't match the constraints in some problems
+  - provide "python3" without providing the exact version.
