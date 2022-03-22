@@ -15,11 +15,11 @@ We attend **live** programming contests on the following online judges to attain
 - Any round on 2022 TopCoder Open
 - Any contests from GeeksForGeeks interview series.
 
-(My CityU fellows: CS3391 and CS3334 are much more fun.)
+(To My CityU fellows: CS3391 and CS3334 are much more fun.)
 
 ## Weekly Score Summary
 
-Current assignment point: 60/130.
+Current assignment point: 65/130.
 
 | Week # | Points | Bonus |
 | ------ | ------ | ----- |
@@ -30,7 +30,7 @@ Current assignment point: 60/130.
 | 7      | 8      |       |
 | 8      | 6      |       |
 | 9      | 9      | +10   |
-| 10     | 3+     |       |
+| 10     | 5+     |       |
 | 11     | -      |       |
 | 12     | -      |       |
 | 13     | -      |       |
@@ -61,7 +61,7 @@ Current assignment point: 60/130.
 | Codechef   | March Long 2022 - I: Div 3     | 9      | 5    |
 | PrepBytes  | MARCH 2022 CODING MARATHON     | 9      | 4    |
 | Leetcode   | Biweekly Contest 74            | 10     | 3    |
-
+| Leetcode   | Weekly Contest 285             | 10     | 2    |
 
 ## Repo Hierarchy
 
