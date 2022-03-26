@@ -19,19 +19,20 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment point: 65/130.
+Current assignment points based on AC submissions: 96/150.
+(practices not included)
 
 | Week # | Points | Bonus |
 | ------ | ------ | ----- |
-| 1-3    | 0      |       |
+| 1-3    | 20     |       |
 | 4      | 17     |       |
 | 5      | 10     |       |
 | 6      | 0      |       |
 | 7      | 8      |       |
 | 8      | 6      |       |
 | 9      | 9      | +10   |
-| 10     | 5+     |       |
-| 11     | -      |       |
+| 10     | 5      |       |
+| 11     | 11     |       |
 | 12     | -      |       |
 | 13     | -      |       |
 | 14     | -      |       |
@@ -63,6 +64,14 @@ Current assignment point: 65/130.
 | Leetcode   | Biweekly Contest 74            | 10     | 3    |
 | Leetcode   | Weekly Contest 285             | 10     | 2    |
 
+### Special Events
+
+| Judge   | Contest                        | Week # | points/#AC | Points | Point Formula |
+| ------- | ------------------------------ | ------ | ---------- | ------ | ------------- |
+| -       | Late Joinee Point Proration    | 1-2    | -          | 20     | -             |
+| Codejam | 9d9870                         | 11     | 14/100     | 2      | ceil(10.*n)   |
+| Vjudge  | 2017 ACM-ICPC GNY NA Regionals | 11     | 3          | 9      | n*3           |
+
 ## Repo Hierarchy
 
 - /weekN contains images and code for week N.
@@ -71,7 +80,8 @@ Current assignment point: 65/130.
 
 ## Online Judges Reviews
 
-- PrepBytes sucks
-  - it doesn't explain runtime error
-  - provide test cases that don't match the constraints in some problems
-  - provide "python3" without providing the exact version.
+### PrepBytes
+
+- it doesn't explain runtime error
+- provide test cases that don't match the constraints in some problems
+- provide "python3" without providing the exact version.
