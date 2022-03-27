@@ -19,13 +19,13 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment points based on AC submissions: 96/150.
+Current assignment points based on AC submissions: 95/150.
 (practices not included)
 
 | Week # | Points | Bonus |
 | ------ | ------ | ----- |
-| 1-3    | 20     |       |
-| 4      | 17     |       |
+| 1-3    | (20)   |       |
+| 4      | 16     |       |
 | 5      | 10     |       |
 | 6      | 0      |       |
 | 7      | 8      |       |
@@ -45,7 +45,7 @@ Current assignment points based on AC submissions: 96/150.
 | ---------- | ------------------------------ | ------ | ---- |
 | Leetcode   | Biweekly Contest 71            | 4      | 3    |
 | Leetcode   | Weekly Contest 279             | 4      | 3    |
-| Codechef   | February Long 2022 - I: Div 3  | 4      | 4    |
+| Codechef   | February Long 2022 - I: Div 3  | 4      | 3    |
 | Codeforces | Round #770 (Div. 2)            | 4      | 2    |
 | GeekF4Geek | interview-series-intuit-1134   | 4      | 1    |
 | Codechef   | Starters 25 Division 3         | 4      | 4    |
@@ -66,11 +66,11 @@ Current assignment points based on AC submissions: 96/150.
 
 ### Special Events
 
-| Judge   | Contest                        | Week # | points/#AC | Points | Point Formula |
-| ------- | ------------------------------ | ------ | ---------- | ------ | ------------- |
-| -       | Late Joinee Point Proration    | 1-2    | -          | 20     | -             |
-| Codejam | 9d9870                         | 11     | 14/100     | 2      | ceil(10.*n)   |
-| Vjudge  | 2017 ACM-ICPC GNY NA Regionals | 11     | 3          | 9      | n*3           |
+| Judge   | Contest                        | Week # | points/#AC | Points | Formula     |
+| ------- | ------------------------------ | ------ | ---------- | ------ | ----------- |
+| -       | Late Joinee Point Proration    | 1-2    | -          | 20     | -           |
+| Codejam | 9d9870                         | 11     | 14/100     | 2      | ceil(10.*n) |
+| Vjudge  | 2017 ACM-ICPC GNY NA Regionals | 11     | 3          | 9      | n*3         |
 
 ## Repo Hierarchy
 
