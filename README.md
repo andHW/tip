@@ -19,24 +19,24 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment points based on AC submissions: 95/150.
-(practices not included)
+Current assignment points based on AC submissions: 103/150.
+(practices and not included)
 
-| Week # | Points | Bonus |
-| ------ | ------ | ----- |
-| 1-3    | (20)   |       |
-| 4      | 16     |       |
-| 5      | 10     |       |
-| 6      | 0      |       |
-| 7      | 8      |       |
-| 8      | 6      |       |
-| 9      | 9      | +10   |
-| 10     | 5      |       |
-| 11     | 11     |       |
-| 12     | -      |       |
-| 13     | -      |       |
-| 14     | -      |       |
-| 15     | -      |       |
+| Week # | Points | Bonus              |
+| ------ | ------ | ------------------ |
+| 1-3    | (20)   |                    |
+| 4      | 16     |                    |
+| 5      | 10     |                    |
+| 6      | 0      |                    |
+| 7      | 8      |                    |
+| 8      | 6      |                    |
+| 9      | 9      | +10 (Spring Break) |
+| 10     | 5      |                    |
+| 11     | 19     |                    |
+| 12     | -      |                    |
+| 13     | -      |                    |
+| 14     | -      |                    |
+| 15     | -      |                    |
 
 
 ## Contest Summary
@@ -63,6 +63,9 @@ Current assignment points based on AC submissions: 95/150.
 | PrepBytes  | MARCH 2022 CODING MARATHON     | 9      | 4    |
 | Leetcode   | Biweekly Contest 74            | 10     | 3    |
 | Leetcode   | Weekly Contest 285             | 10     | 2    |
+| Leetcode   | Weekly Contest 286             | 11     | 3    |
+| Codeforces | Round #779 (Div. 2)            | 11     | 2    |
+| Codechef   | March Long 2022 - II: Div 3    | 11     | 3    |
 
 ### Special Events
 
