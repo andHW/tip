@@ -33,7 +33,7 @@ Current assignment points based on AC submissions: 103/150.
 | 9      | 9      | +10 (Spring Break) |
 | 10     | 5      |                    |
 | 11     | 19     |                    |
-| 12     | -      |                    |
+| 12     | 2+     |                    |
 | 13     | -      |                    |
 | 14     | -      |                    |
 | 15     | -      |                    |
@@ -66,6 +66,7 @@ Current assignment points based on AC submissions: 103/150.
 | Leetcode   | Weekly Contest 286             | 11     | 3    |
 | Codeforces | Round #779 (Div. 2)            | 11     | 2    |
 | Codechef   | March Long 2022 - II: Div 3    | 11     | 3    |
+| AtCoder    | Beginner Contest 246           | 12     | 2    |
 
 ### Special Events
 
@@ -74,6 +75,7 @@ Current assignment points based on AC submissions: 103/150.
 | -       | Late Joinee Point Proration    | 1-2    | -          | 20     | -           |
 | Codejam | 9d9870                         | 11     | 14/100     | 2      | ceil(10.*n) |
 | Vjudge  | 2017 ACM-ICPC GNY NA Regionals | 11     | 3          | 9      | n*3         |
+| Codejam | 876ff1                         | 12     | 3+         |        |             |
 
 ## Repo Hierarchy
 
