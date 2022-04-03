@@ -19,7 +19,7 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment points based on AC submissions: 103/150.
+Current assignment points based on AC submissions: 113/150.
 (practices and not included)
 
 | Week # | Points | Bonus              |
@@ -33,7 +33,7 @@ Current assignment points based on AC submissions: 103/150.
 | 9      | 9      | +10 (Spring Break) |
 | 10     | 5      |                    |
 | 11     | 19     |                    |
-| 12     | 2+     |                    |
+| 12     | 10+    |                    |
 | 13     | -      |                    |
 | 14     | -      |                    |
 | 15     | -      |                    |
@@ -67,6 +67,7 @@ Current assignment points based on AC submissions: 103/150.
 | Codeforces | Round #779 (Div. 2)            | 11     | 2    |
 | Codechef   | March Long 2022 - II: Div 3    | 11     | 3    |
 | AtCoder    | Beginner Contest 246           | 12     | 2    |
+| Codechef   | April Cook-Off 2022: Div 3     | 12     | 3    |
 
 ### Special Events
 
@@ -75,7 +76,7 @@ Current assignment points based on AC submissions: 103/150.
 | -       | Late Joinee Point Proration    | 1-2    | -          | 20     | -           |
 | Codejam | 9d9870                         | 11     | 14/100     | 2      | ceil(10.*n) |
 | Vjudge  | 2017 ACM-ICPC GNY NA Regionals | 11     | 3          | 9      | n*3         |
-| Codejam | 876ff1                         | 12     | 3+         |        |             |
+| Codejam | 876ff1                         | 12     | 44/100     | 5      | ceil(10.*n) |
 
 ## Repo Hierarchy
 
