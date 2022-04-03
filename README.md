@@ -19,7 +19,7 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment points based on AC submissions: 118/150.
+Current assignment points based on AC submissions: 120/150.
 (practices and not included)
 
 | Week # | Points | Bonus              |
@@ -33,7 +33,7 @@ Current assignment points based on AC submissions: 118/150.
 | 9      | 9      | +10 (Spring Break) |
 | 10     | 5      |                    |
 | 11     | 19     |                    |
-| 12     | 15+    |                    |
+| 12     | 17+    |                    |
 | 13     | -      |                    |
 | 14     | -      |                    |
 | 15     | -      |                    |
@@ -41,35 +41,36 @@ Current assignment points based on AC submissions: 118/150.
 
 ## Contest Summary
 
-| Judge      | Contest                        | Week # | # AC |
-| ---------- | ------------------------------ | ------ | ---- |
-| Leetcode   | Biweekly Contest 71            | 4      | 3    |
-| Leetcode   | Weekly Contest 279             | 4      | 3    |
-| Codechef   | February Long 2022 - I: Div 3  | 4      | 3    |
-| Codeforces | Round #770 (Div. 2)            | 4      | 2    |
-| GeekF4Geek | interview-series-intuit-1134   | 4      | 1    |
-| Codechef   | Starters 25 Division 3         | 4      | 4    |
-| Codechef   | February Long 2022 - II: Div 3 | 5      | 4    |
-| Codeforces | Global Round 19                | 5      | 1    |
-| Leetcode   | Weekly Contest 280             | 5      | 2    |
-| Codechef   | Starters 26 Div 3 (Rated)      | 5      | 3    |
-| Codechef   | February Lunchtime 2022: Div 3 | 7      | 3    |
-| Codechef   | Starters 28: Div. 3            | 7      | 3    |
-| Codeforces | Round #774 (Div. 2)            | 7      | 2    |
-| Leetcode   | Biweekly Contest 73            | 8      | 2    |
-| Codeforces | Round #776 (Div. 3)            | 8      | 1    |
-| Codechef   | Starters 29: Div. 3            | 8      | 3    |
-| Codechef   | March Long 2022 - I: Div 3     | 9      | 5    |
-| PrepBytes  | MARCH 2022 CODING MARATHON     | 9      | 4    |
-| Leetcode   | Biweekly Contest 74            | 10     | 3    |
-| Leetcode   | Weekly Contest 285             | 10     | 2    |
-| Leetcode   | Weekly Contest 286             | 11     | 3    |
-| Codeforces | Round #779 (Div. 2)            | 11     | 2    |
-| Codechef   | March Long 2022 - II: Div 3    | 11     | 3    |
-| AtCoder    | Beginner Contest 246           | 12     | 2    |
-| Codechef   | April Cook-Off 2022: Div 3     | 12     | 3    |
-| Leetcode   | Biweekly Contest 75            | 12     | 3    |
-| Leetcode   | Weekly Contest 287             | 12     | 2    |
+| Judge       | Contest                        | Week # | # AC |
+| ----------- | ------------------------------ | ------ | ---- |
+| Leetcode    | Biweekly Contest 71            | 4      | 3    |
+| Leetcode    | Weekly Contest 279             | 4      | 3    |
+| Codechef    | February Long 2022 - I: Div 3  | 4      | 3    |
+| Codeforces  | Round #770 (Div. 2)            | 4      | 2    |
+| Geeks4Geeks | interview-series-intuit-1134   | 4      | 1    |
+| Codechef    | Starters 25 Division 3         | 4      | 4    |
+| Codechef    | February Long 2022 - II: Div 3 | 5      | 4    |
+| Codeforces  | Global Round 19                | 5      | 1    |
+| Leetcode    | Weekly Contest 280             | 5      | 2    |
+| Codechef    | Starters 26 Div 3 (Rated)      | 5      | 3    |
+| Codechef    | February Lunchtime 2022: Div 3 | 7      | 3    |
+| Codechef    | Starters 28: Div. 3            | 7      | 3    |
+| Codeforces  | Round #774 (Div. 2)            | 7      | 2    |
+| Leetcode    | Biweekly Contest 73            | 8      | 2    |
+| Codeforces  | Round #776 (Div. 3)            | 8      | 1    |
+| Codechef    | Starters 29: Div. 3            | 8      | 3    |
+| Codechef    | March Long 2022 - I: Div 3     | 9      | 5    |
+| PrepBytes   | MARCH 2022 CODING MARATHON     | 9      | 4    |
+| Leetcode    | Biweekly Contest 74            | 10     | 3    |
+| Leetcode    | Weekly Contest 285             | 10     | 2    |
+| Leetcode    | Weekly Contest 286             | 11     | 3    |
+| Codeforces  | Round #779 (Div. 2)            | 11     | 2    |
+| Codechef    | March Long 2022 - II: Div 3    | 11     | 3    |
+| AtCoder     | Beginner Contest 246           | 12     | 2    |
+| Codechef    | April Cook-Off 2022: Div 3     | 12     | 3    |
+| Leetcode    | Biweekly Contest 75            | 12     | 3    |
+| Leetcode    | Weekly Contest 287             | 12     | 2    |
+| Geeks4Geeks | Interview Series #44           | 12     | 2    |
 
 ### Special Events
 
