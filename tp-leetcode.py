@@ -7,7 +7,6 @@ from typing import List
 import collections
 import itertools
 import functools
-import math
 import string
 import random
 import bisect
@@ -16,6 +15,7 @@ import operator
 import heapq
 import queue
 
+from math import *
 from queue import PriorityQueue
 from itertools import combinations, permutations
 from functools import lru_cache
