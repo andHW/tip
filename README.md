@@ -19,7 +19,7 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment points based on AC submissions: 122/150.
+Current assignment points based on AC submissions: 126/150.
 (practices and not included)
 
 | Week # | Points | Bonus              |
@@ -33,7 +33,7 @@ Current assignment points based on AC submissions: 122/150.
 | 9      | 9      | +10 (Spring Break) |
 | 10     | 5      |                    |
 | 11     | 19     |                    |
-| 12     | 19+    |                    |
+| 12     | 23+    |                    |
 | 13     | -      |                    |
 | 14     | -      |                    |
 | 15     | -      |                    |
@@ -71,7 +71,8 @@ Current assignment points based on AC submissions: 122/150.
 | Leetcode    | Biweekly Contest 75            | 12     | 3    |
 | Leetcode    | Weekly Contest 287             | 12     | 2    |
 | Geeks4Geeks | Interview Series #44           | 12     | 2    |
-| Codechef    | Code Mania 3 Apr COMA2022      | 11     | 2    |
+| Codechef    | Code Mania 3 Apr COMA2022      | 12     | 2    |
+| Codechef    | Starters 33: Div 3             | 12     | 4    |
 
 ### Special Events
 
