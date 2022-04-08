@@ -33,7 +33,7 @@ Current assignment points based on AC submissions: 126/150.
 | 9      | 9      | +10 (Spring Break) |
 | 10     | 5      |                    |
 | 11     | 19     |                    |
-| 12     | 23+    |                    |
+| 12     | 23     |                    |
 | 13     | -      |                    |
 | 14     | -      |                    |
 | 15     | -      |                    |
