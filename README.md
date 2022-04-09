@@ -34,7 +34,7 @@ Current assignment points based on AC submissions: 126/150.
 | 10     | 5      |                    |
 | 11     | 19     |                    |
 | 12     | 23     |                    |
-| 13     | -      |                    |
+| 13     | 3+     |                    |
 | 14     | -      |                    |
 | 15     | -      |                    |
 
@@ -82,6 +82,7 @@ Current assignment points based on AC submissions: 126/150.
 | Codejam | 9d9870                         | 11     | 14/100     | 2      | ceil(10.*n) |
 | Vjudge  | 2017 ACM-ICPC GNY NA Regionals | 11     | 3          | 9      | n*3         |
 | Codejam | 876ff1                         | 12     | 44/100     | 5      | ceil(10.*n) |
+| Codejam | 877ba5                         | 13     | 25/100     | 3      | ceil(10.*n) |
 
 ## Repo Hierarchy
 
