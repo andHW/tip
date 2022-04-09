@@ -15,5 +15,6 @@ def dprint(*args, **kwargs):
 
 ttt = int(input())
 
-for _ in range(ttt):
+for t in range(ttt):
+    print(f"Case #{t+1}:")
     map(int, input().split())
