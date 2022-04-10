@@ -19,7 +19,7 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment points based on AC submissions: 126/150.
+Current assignment points based on AC submissions: 130/150.
 (practices and not included)
 
 | Week # | Points | Bonus              |
@@ -34,7 +34,7 @@ Current assignment points based on AC submissions: 126/150.
 | 10     | 5      |                    |
 | 11     | 19     |                    |
 | 12     | 23     |                    |
-| 13     | 3+     |                    |
+| 13     | 4+     |                    |
 | 14     | -      |                    |
 | 15     | -      |                    |
 
@@ -73,6 +73,7 @@ Current assignment points based on AC submissions: 126/150.
 | Geeks4Geeks | Interview Series #44           | 12     | 2    |
 | Codechef    | Code Mania 3 Apr COMA2022      | 12     | 2    |
 | Codechef    | Starters 33: Div 3             | 12     | 4    |
+| Geeks4Geeks | Interview Series #44           | 13     | 1    |
 
 ### Special Events
 
