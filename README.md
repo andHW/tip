@@ -19,25 +19,24 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment points based on AC submissions: 134/150.
+Current assignment points based on AC submissions: 137/150.
 (practices and not included)
 
-| Week # | Points | Bonus              |
-| ------ | ------ | ------------------ |
-| 1-3    | (20)   |                    |
-| 4      | 16     |                    |
-| 5      | 10     |                    |
-| 6      | 0      |                    |
-| 7      | 8      |                    |
-| 8      | 6      |                    |
-| 9      | 9      | +10 (Spring Break) |
-| 10     | 5      |                    |
-| 11     | 19     |                    |
-| 12     | 23     |                    |
-| 13     | 8+     |                    |
-| 14     | -      |                    |
-| 15     | -      |                    |
-
+| Week # | Points | Bonus              | Acc |
+| ------ | ------ | ------------------ | --- |
+| 1-3    | (20)   |                    | 20  |
+| 4      | 16     |                    | 36  |
+| 5      | 10     |                    | 46  |
+| 6      | 0      |                    | 46  |
+| 7      | 8      |                    | 54  |
+| 8      | 6      |                    | 60  |
+| 9      | 9      | +10 (Spring Break) | 79  |
+| 10     | 5      |                    | 84  |
+| 11     | 19     |                    | 103 |
+| 12     | 23     |                    | 126 |
+| 13     | 11+    |                    | 137 |
+| 14     | -      |                    |     |
+| 15     | -      |                    |     |
 
 ## Contest Summary
 
@@ -75,6 +74,7 @@ Current assignment points based on AC submissions: 134/150.
 | Codechef    | Starters 33: Div 3             | 12     | 4    |
 | Leetcode    | Weekly Contest 288             | 13     | 2    |
 | Geeks4Geeks | Interview Series #44           | 13     | 1    |
+| Codechef    | April Long One 2022: Div 3     | 13     | 5    |
 
 ### Special Events
 
