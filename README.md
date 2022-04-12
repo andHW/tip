@@ -20,7 +20,7 @@ We attend **live** programming contests on the following online judges to attain
 ## Weekly Score Summary
 
 Current assignment points based on AC submissions: 137/150.
-(practices and not included)
+(practices are not included)
 
 | Week # | Points | Bonus              | Acc |
 | ------ | ------ | ------------------ | --- |
