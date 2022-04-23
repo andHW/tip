@@ -19,7 +19,7 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment points based on AC submissions: 137/150.
+Current assignment points based on AC submissions: 144/150.
 (practices are not included)
 
 | Week # | Points | Bonus              | Acc |
@@ -33,9 +33,9 @@ Current assignment points based on AC submissions: 137/150.
 | 9      | 9      | +10 (Spring Break) | 79  |
 | 10     | 5      |                    | 84  |
 | 11     | 19     |                    | 103 |
-| 12     | 23     |                    | 126 |
-| 13     | 11+    |                    | 137 |
-| 14     | -      |                    |     |
+| 12     | 21     |                    | 124 |
+| 13     | 11     |                    | 135 |
+| 14     | 9      |                    | 144 |
 | 15     | -      |                    |     |
 
 ## Contest Summary
@@ -59,7 +59,7 @@ Current assignment points based on AC submissions: 137/150.
 | Codeforces  | Round #776 (Div. 3)            | 8      | 1    |
 | Codechef    | Starters 29: Div. 3            | 8      | 3    |
 | Codechef    | March Long 2022 - I: Div 3     | 9      | 5    |
-| PrepBytes   | MARCH 2022 CODING MARATHON     | 9      | 4    |
+| PrepBytes   | March 2022 Coding Marathon     | 9      | 4    |
 | Leetcode    | Biweekly Contest 74            | 10     | 3    |
 | Leetcode    | Weekly Contest 285             | 10     | 2    |
 | Leetcode    | Weekly Contest 286             | 11     | 3    |
@@ -70,11 +70,22 @@ Current assignment points based on AC submissions: 137/150.
 | Leetcode    | Biweekly Contest 75            | 12     | 3    |
 | Leetcode    | Weekly Contest 287             | 12     | 2    |
 | Geeks4Geeks | Interview Series #44           | 12     | 2    |
-| Codechef    | Code Mania 3 Apr COMA2022      | 12     | 2    |
 | Codechef    | Starters 33: Div 3             | 12     | 4    |
 | Leetcode    | Weekly Contest 288             | 13     | 2    |
 | Geeks4Geeks | Interview Series #44           | 13     | 1    |
 | Codechef    | April Long One 2022: Div 3     | 13     | 5    |
+| PrepBytes   | April 2022 Coding Marathon     | 14     | 2    |
+| Leetcode    | Weekly Contest 289             | 14     | 2    |
+| Leetcode    | BiWeekly Contest 76            | 14     | 3    |
+| Codechef    | April Lunchtime 2022: Div 3    | 14     | 1    |
+| Geeks4Geeks | Interview Series #46           | 14     | 1    |
+
+<!--
+code Mania is unrated!!! 🤦
+| Judge    | Contest                   | Week # | # AC |
+| -------- | ------------------------- | ------ | ---- |
+| Codechef | Code Mania 3 Apr COMA2022 | 12     | 2    |
+-->
 
 ### Special Events
 
@@ -85,6 +96,7 @@ Current assignment points based on AC submissions: 137/150.
 | Vjudge  | 2017 ACM-ICPC GNY NA Regionals | 11     | 3          | 9      | n*3         |
 | Codejam | 876ff1                         | 12     | 44/100     | 5      | ceil(10.*n) |
 | Codejam | 877ba5                         | 13     | 25/100     | 3      | ceil(10.*n) |
+
 
 ## Repo Hierarchy
 
