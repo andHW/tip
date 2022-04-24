@@ -36,7 +36,7 @@ Current assignment points based on AC submissions: 144/150.
 | 12     | 21     |                    | 124 |
 | 13     | 11     |                    | 135 |
 | 14     | 9      |                    | 144 |
-| 15     | 2+     |                    |     |
+| 15     | 4+     |                    |     |
 | 16     | -      |                    |     |
 | 17     | -      |                    |     |
 
@@ -82,6 +82,7 @@ Current assignment points based on AC submissions: 144/150.
 | Codechef    | April Lunchtime 2022: Div 3    | 14     | 1    |
 | Geeks4Geeks | Interview Series #46           | 14     | 1    |
 | AtCoder     | Beginner Contest 249           | 15     | 2    |
+| Leetcode    | Weekly Contest 290             | 15     | 2    |
 
 <!--
 code Mania is unrated!!! 🤦
