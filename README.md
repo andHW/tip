@@ -19,7 +19,7 @@ We attend **live** programming contests on the following online judges to attain
 
 ## Weekly Score Summary
 
-Current assignment points based on AC submissions: 144/150.
+Current assignment points based on AC submissions: 151/150.
 (practices are not included)
 
 | Week # | Points | Bonus              | Acc |
@@ -37,7 +37,7 @@ Current assignment points based on AC submissions: 144/150.
 | 13     | 11     |                    | 135 |
 | 14     | 9      |                    | 144 |
 | 15     | 7      |                    | 151 |
-| 16     | -      |                    |     |
+| 16     | 3+     |                    |     |
 | 17     | -      |                    |     |
 
 ## Contest Summary
@@ -83,10 +83,11 @@ Current assignment points based on AC submissions: 144/150.
 | Geeks4Geeks | Interview Series #46           | 14     | 1    |
 | AtCoder     | Beginner Contest 249           | 15     | 2    |
 | Leetcode    | Weekly Contest 290             | 15     | 2    |
-| Codechef    | April Long Two 2022: Div 3     | 14     | 3    |
+| Codechef    | April Long Two 2022: Div 3     | 15     | 3    |
+| PrepBytes   | April 2022 Prime time          | 16     | 3    |
 
 <!--
-code Mania is unrated!!! 🤦
+Code Mania is unrated!!! 🤦
 | Judge    | Contest                   | Week # | # AC |
 | -------- | ------------------------- | ------ | ---- |
 | Codechef | Code Mania 3 Apr COMA2022 | 12     | 2    |
@@ -115,4 +116,5 @@ code Mania is unrated!!! 🤦
 
 - it doesn't explain runtime error
 - provide test cases that don't match the constraints in some problems
+  - TWICE
 - provide "python3" without providing the exact version.
