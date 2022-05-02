@@ -85,6 +85,8 @@ Current assignment points based on AC submissions: 151/150.
 | Leetcode    | Weekly Contest 290             | 15     | 2    |
 | Codechef    | April Long Two 2022: Div 3     | 15     | 3    |
 | PrepBytes   | April 2022 Prime time          | 16     | 3    |
+| Leetcode    | Weekly Contest 291             | 16     | 3    |
+| Leetcode    | BiWeekly Contest 77            | 16     | 3    |
 
 <!--
 Code Mania is unrated!!! 🤦
