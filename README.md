@@ -15,12 +15,12 @@ We attend **live** programming contests on the following online judges to attain
 - Any round on 2022 TopCoder Open
 - Any contests from GeeksForGeeks interview series.
 
-(To My CityU fellows: CS3391 and CS3334 are much more fun.)
+(To my CityU fellows: this class is like a "open world version" of CS3391 and CS3334.)
 
 ## Weekly Score Summary
 
-Current assignment points based on AC submissions: 165/150.
-(practices are not included)
+Current assignment points based on AC submissions: 168/150.
+(practices and general bonus are not included)
 
 | Week # | Points | Bonus              | Acc |
 | ------ | ------ | ------------------ | --- |
@@ -37,7 +37,7 @@ Current assignment points based on AC submissions: 165/150.
 | 13     | 11     |                    | 135 |
 | 14     | 9      |                    | 144 |
 | 15     | 7      |                    | 151 |
-| 16     | 14+    |                    | 165 |
+| 16     | 17     |                    | 168 |
 | 17     | -      |                    |     |
 
 ## Contest Summary
@@ -90,6 +90,7 @@ Current assignment points based on AC submissions: 165/150.
 | Codechef    | May Cook-Off 2022: Div 3       | 16     | 3    |
 | Codeforces  | Round #785 (Div. 2)            | 16     | 1    |
 | Geeks4Geeks | Interview Series #48           | 16     | 1    |
+| Codeforces  | Round #786 (Div. 3)            | 16     | 3    |
 
 <!--
 Code Mania is unrated!!! 🤦
